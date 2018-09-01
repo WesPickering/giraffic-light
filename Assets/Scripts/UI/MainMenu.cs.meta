@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: a486545dcd092874fbaac6fe3091a519
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - giraffeLeft: {fileID: 1750021288311428, guid: 7e4dae431d9d6496b939b1b7d7312b35,
+      type: 2}
+  - giraffeRight: {fileID: 1615106847197588, guid: 7e4dae431d9d6496b939b1b7d7312b35,
+      type: 2}
+  - play: {fileID: 1675836991871116, guid: 7e4dae431d9d6496b939b1b7d7312b35, type: 2}
+  - credits: {fileID: 1039745388009344, guid: 7e4dae431d9d6496b939b1b7d7312b35, type: 2}
+  - creditsText: {fileID: 1080895061570710, guid: 7e4dae431d9d6496b939b1b7d7312b35,
+      type: 2}
+  - creditsPlay: {fileID: 1372010475694424, guid: 7e4dae431d9d6496b939b1b7d7312b35,
+      type: 2}
+  - creditsGiraffe: {fileID: 1375913110516870, guid: 7e4dae431d9d6496b939b1b7d7312b35,
+      type: 2}
+  - audioSource: {instanceID: 0}
+  - click1: {instanceID: 0}
+  - click2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

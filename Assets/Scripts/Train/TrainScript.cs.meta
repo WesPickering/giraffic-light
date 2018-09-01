@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37120eea1c8e449429997980709ef836
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firstPoint: {instanceID: 0}
+  - secondPoint: {instanceID: 0}
+  - thirdPoint: {instanceID: 0}
+  - blood: {fileID: 1148838353332494, guid: abc46af9385424062ad254a105e53b51, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
